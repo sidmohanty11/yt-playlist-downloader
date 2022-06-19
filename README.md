@@ -1,4 +1,6 @@
 # yt-playlist-downloader
+![downloads](https://img.shields.io/github/downloads/sidmohanty11/yt-playlist-downloader/total?style=flat-square)
+
 youtube playlist downloader cli (concurrent approach)
 
 ## Usage
